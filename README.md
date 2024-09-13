@@ -1,5 +1,5 @@
 # Image Segmentation from Images
-Program to find Image histogrms, Harris Corner detection and SIFT Key Points. 
+Program to find Image histograms, Harris Corner detection and SIFT Key Points. 
 Further in the problem statement, it also highlight tasks such as finding Image Features, conducting object extraction and doing image segmentation using K-means.
 
 **I have made it very easy to follow here with simple words and easy steps!**
