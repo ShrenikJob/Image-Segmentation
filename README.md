@@ -79,7 +79,7 @@ $ xeyes
 $ python3 Image_Segmentation.py
 ```
 > The code will take some time to run...
-> Just press enter to run through the images, and you can see what number is detected in the "Output folder"!
+> Just press enter to run through the images, and you can see the results!
 
 
 # We are done! 
