@@ -1,4 +1,6 @@
-#Task 1 - 19128014
+#Image Segmentation
+#Author : Shrenik Jobanputra
+#Date Last Modified: 13/09/2024 
 
 #All the imports
 import cv2
