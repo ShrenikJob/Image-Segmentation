@@ -20,6 +20,12 @@ There is also a report added in which I have written the results.
 
 ![dugong](https://github.com/user-attachments/assets/074d0f79-afa2-425a-b118-0a1c235f9668)
 
+**Some results from my side: Which is also shown in the report**
+
+![Result_1](https://github.com/user-attachments/assets/c755c007-04da-4509-b996-ec2146207c56)
+
+![Result_2](https://github.com/user-attachments/assets/0130378c-e295-4cdd-b835-b535f47b7b17)
+
 
 # 2) Getting Started
 To run the code in Python, first we need to get the environment. 
